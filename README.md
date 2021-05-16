@@ -1,6 +1,6 @@
 # Integrating IBM Watson Assistant with WhatsApp
 
-Chatbots are everywhere these days, and most businesses aim to use them to increase productivity and provide a better customer experience. In this tutorial, my colleague Mridul Bhandari and I, Khalil Faraj will demonstrate how to extend a Watson Assistant chatbot's capabilities by connecting it to WhatsApp using Twilio. We will be using Twilio's sandbox to show how this integration works.
+Chatbots are everywhere these days, and most businesses aim to use them to increase productivity and provide a better customer experience. In this tutorial, we will demonstrate how to extend a Watson Assistant chatbot's capabilities by connecting it to WhatsApp using Twilio. We will be using Twilio's sandbox to show how this integration works.
 
 **Prerequisites**
 - [IBM Cloud Account]()
