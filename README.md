@@ -17,7 +17,7 @@ In this tutorial, we are assuming that you already know what Watson Assistant is
 3. Choose WhatsApp with Twilio and then click Create. <br/>
 ![3](https://user-images.githubusercontent.com/12492961/118401118-7547ca00-b675-11eb-8469-32cec99e733e.png)
 
-4. Now here we will need to set the Account SID and Auth token that we can get from Twilio. Go to your Twilio account (if you don't an account, you can create one here) and copy your Account SID and Auth token that are in the home dashboard. (Click on Show to reveal the token). <br/>
+4. Now here we will need to set the Account SID and Auth token that we can get from Twilio. Go to your Twilio account (if you don't an account, you can create one [here](www.twilio.com/referral/jO1067)) and copy your Account SID and Auth token that are in the home dashboard. (Click on Show to reveal the token). <br/>
 ![4](https://user-images.githubusercontent.com/12492961/118401162-93adc580-b675-11eb-97e3-28cea6ccab3e.png)
 
 5. Go back to your Watson Assistant and fill Account SID and Auth token with the values that you got from Twilio. <br/>
