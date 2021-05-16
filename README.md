@@ -28,7 +28,7 @@ In this tutorial, we are assuming that you already know what Watson Assistant is
 ![6](https://user-images.githubusercontent.com/12492961/118401202-c061dd00-b675-11eb-9472-8367940d716e.png)
 <br/> We will be using this testing sandbox for our integration. Send the given code/message to the number provided by Twilio from your WhatsApp. <br/>
 ![6a](https://user-images.githubusercontent.com/12492961/118401223-e4bdb980-b675-11eb-885c-c0d8c71e7ba2.jpg)
-<br/> Click [here](https://api.whatsapp.com/send?phone=+1 (415) 523-8886&text=join%20design-thumb) to send the message to given number or Scan this QR Code. <br/>
+<br/> Click [here](https://api.whatsapp.com/send?phone=+1(415)523-8886&text=join%20design-thumb) to send the message to given number or Scan this QR Code. <br/>
 ![WA](https://user-images.githubusercontent.com/12492961/118401683-a2957780-b677-11eb-88aa-93adb2b79271.png)
 <br/> Once it's done, you should see Message Received on Twilio like this image. <br/>
 ![6b](https://user-images.githubusercontent.com/12492961/118401243-fb641080-b675-11eb-927f-43188c4efbe2.png)
