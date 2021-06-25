@@ -157,33 +157,6 @@ https://www.crowdcast.io/e/whatsapp-chatbot
 ![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide20.jpeg?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide21.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide22.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide23.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide24.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide25.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide26.jpeg?raw=true)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide27.jpeg?raw=true)
-
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
