@@ -73,7 +73,7 @@ https://www.crowdcast.io/e/whatsapp-chatbot
 - Survey - https://ibm.biz/whatsapp-chatbot-survey
 - GitHub Repository - https://ibm.biz/whatsapp-chatbot-repo
 - Workshop Slides - https://ibm.biz/whatsapp-chatbot-slides
-- Hands-on - https://ibm.biz/whatsapp-chatbot-lab
+- Hands-on - https://ibm.biz/whatsapp-chatbot-lab
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
