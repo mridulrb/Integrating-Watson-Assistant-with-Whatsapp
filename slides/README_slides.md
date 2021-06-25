@@ -66,8 +66,7 @@ Anyone interested in AI and chatbots is welcome to attend the workshop, but it i
 ☁ Register for a free IBM Cloud Account: https://ibm.biz/whatsapp-chatbot <br />
 ☁ Sign up for a Twilio account: https://ibm.biz/whatsapp-chatbot-twilio
 
-🍉 Register for the live stream and replay on Crowdcast: <br/>
-https://www.crowdcast.io/e/whatsapp-chatbot
+🍉 Register for the live stream and replay on Crowdcast: https://www.crowdcast.io/e/whatsapp-chatbot <br />
 
 👩‍💻Resources <br />
 - Survey - https://ibm.biz/whatsapp-chatbot-survey
