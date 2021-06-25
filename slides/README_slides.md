@@ -156,6 +156,7 @@ https://www.crowdcast.io/e/whatsapp-chatbot
 
 ![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/images/slide_images/Slide20.jpeg?raw=true)
 
+
 +++ {"slideshow": {"slide_type": "slide"}}
 ## License
 
