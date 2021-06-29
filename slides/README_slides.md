@@ -155,6 +155,10 @@ Anyone interested in AI and chatbots is welcome to attend the workshop, but it i
 
 ![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide20.jpeg?raw=true)
 
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide21.jpeg?raw=true)
+
 
 +++ {"slideshow": {"slide_type": "slide"}}
 ## License
