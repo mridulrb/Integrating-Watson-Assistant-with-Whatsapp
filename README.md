@@ -3,10 +3,10 @@
 Chatbots are everywhere these days, and most businesses aim to use them to increase productivity and provide a better customer experience. In this tutorial, we will demonstrate how to extend a Watson Assistant chatbot's capabilities by connecting it to WhatsApp using Twilio. We will be using Twilio's sandbox to show how this integration works.
 
 ## Workshop Resources
-- Login/Sign Up for IBM Cloud: https://ibm.biz/whatsapp-chatbot <br/>
+- Login/Sign Up for IBM Cloud: https://ibm.biz/IBMTwilio <br/>
 - Hands-On Guide: https://ibm.biz/whatsapp-chatbot-lab <br/>
-- Slides: https://ibm.biz/whatsapp-chatbot-slides <br/>
-- Twilio Sign Up: https://ibm.biz/whatsapp-chatbot-twilio <br/>
+- Slides: https://ibm.biz/whatsapp-twilio-slides <br/>
+- Twilio Sign Up: https://ibm.biz/tryTwilio <br/>
 - Workshop Replay: https://www.crowdcast.io/e/whatsapp-chatbot <br/>
 - New Watson Assistant Version: https://developer.ibm.com/tutorials/integrating-ibm-watson-assistant-with-whatsapp/
 
