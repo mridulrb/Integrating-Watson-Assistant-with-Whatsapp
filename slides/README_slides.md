@@ -58,20 +58,24 @@ Anyone interested in AI and chatbots is welcome to attend the workshop, but it i
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 🎙️ Speakers <br />
-- Mridul Bhandari, IBM Developer Advocate, https://www.linkedin.com/in/mridul-bhandari
-- Khalil Faraj, IBM Developer Advocate, https://www.linkedin.com/in/khalilfaraj/
-- Hashim Noor, IBM Technical Specialist, https://www.linkedin.com/in/hashim-noor/
+- Mridul Bhandari, IBM Developer Advocate: https://www.linkedin.com/in/mridul-bhandari
+- Khalil Faraj, IBM Developer Advocate: https://www.linkedin.com/in/khalilfaraj/
+- - Arthur Pham, Twilio Game Designer & Engineer: https://linkedin.com/in/arttham 
+
+🎙️ Host <br />
+- David Nugent, IBM Developer Advocate: https://twitter.com/drnugent <br />
+
 
 🎈 Prerequisites <br />
-☁ Register for a free IBM Cloud Account: https://ibm.biz/whatsapp-chatbot <br />
-☁ Sign up for a Twilio account: https://ibm.biz/whatsapp-chatbot-twilio
+☁ Register for a free IBM Cloud Account: ibm.biz/IBMTwilio <br />
+☁ Sign up for a Twilio account: https://ibm.biz/tryTwilio
 
-🍉 Register for the live stream and replay on Crowdcast: https://www.crowdcast.io/e/whatsapp-chatbot <br />
+🍉 Register for the live stream and replay on Crowdcast: https://www.crowdcast.io/e/easily-integrate-your <br />
 
 👩‍💻Resources <br />
-- Survey - https://ibm.biz/whatsapp-chatbot-survey
+- Survey - https://ibm.biz/IBMTwilioSurvey
 - GitHub Repository - https://ibm.biz/whatsapp-chatbot-repo
-- Workshop Slides - https://ibm.biz/whatsapp-chatbot-slides
+- Workshop Slides - https://ibm.biz/whatsapp-twilio-slides
 - Hands-on - https://ibm.biz/whatsapp-chatbot-lab
 - Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
