@@ -55,16 +55,16 @@ In this workshop, we will extend Watson Assistant chatbot's capabilities by conn
 👩‍💻 Who should attend? <br />
 Anyone interested in AI and chatbots is welcome to attend the workshop, but it is preferred that you have some knowledge about Watson Assistant and chatbots since this workshop won't focus much on covering the basics of Watson Assistant.
 
+
+🎙️ Host <br />
+- David Nugent, IBM Developer Advocate: https://twitter.com/drnugent <br />
+
 +++ {"slideshow": {"slide_type": "subslide"}}
 
 🎙️ Speakers <br />
 - Mridul Bhandari, IBM Developer Advocate: https://www.linkedin.com/in/mridul-bhandari
 - Khalil Faraj, IBM Developer Advocate: https://www.linkedin.com/in/khalilfaraj/
 - Arthur Pham, Twilio Game Designer & Engineer: https://linkedin.com/in/arttham 
-
-🎙️ Host <br />
-- David Nugent, IBM Developer Advocate: https://twitter.com/drnugent <br />
-
 
 🎈 Prerequisites <br />
 ☁ Register for a free IBM Cloud Account: https://ibm.biz/IBMTwilio <br />
