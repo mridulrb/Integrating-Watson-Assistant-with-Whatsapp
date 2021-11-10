@@ -163,6 +163,62 @@ Anyone interested in AI and chatbots is welcome to attend the workshop, but it i
 
 ![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide21.jpeg?raw=true)
 
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide22.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide23.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide24.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide25.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide26.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide27.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide28.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide29.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide30.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide31.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide32.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide33.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide34.jpeg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp/blob/main/Images/slide_images/Slide35.jpeg?raw=true)
+
 
 +++ {"slideshow": {"slide_type": "slide"}}
 ## License
